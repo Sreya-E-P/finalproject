@@ -11,6 +11,8 @@ I have created a azure healthbot which includes many inbuilt scenario management
 
 # Links
 
+Health BOT link: https://webchat.botframework.com/embed/medica-yvdgdgz?s=wYuA_h84TcI.NaNM4GQH64SdLKB_652BIZg67KQXEt9sqx86HrA77K8
+
 Static web apps link: https://red-ocean-0af946510.2.azurestaticapps.net
 
 Project link : https://sreya-e-p.github.io/finalproject/
