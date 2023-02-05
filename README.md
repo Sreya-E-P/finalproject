@@ -26,3 +26,30 @@ VS code deployment video: https://youtu.be/idyM3k4L36s
 
 Health bot video: https://youtu.be/mHZ2niKamHk
 
+# Screenshots 
+
+Screenshot_20230205_123459_Chrome.jpg
+
+Screenshot_20230205_123926_Chrome.jpg
+
+Screenshot_20230205_124103_Chrome.jpg
+
+Screenshot_20230205_123753_Chrome.jpg
+
+Screenshot_20230205_123552_Chrome.jpg
+
+Screenshot_20230205_123710_Chrome.jpg
+
+Screenshot_20230205_123654_Chrome.jpg
+
+Screenshot_20230205_124252_Chrome.jpg
+
+Screenshot_20230205_124300_Chrome.jpg
+
+Screenshot_20230205_124021_Chrome.jpg
+
+Screenshot_20230205_124321_Chrome.jpg
+
+Screenshot_20230205_124001_Chrome.jpg
+
+Screenshot_20230205_124242_Chrome.jpg
